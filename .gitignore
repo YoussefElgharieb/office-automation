@@ -1,0 +1,11 @@
+# WebStorm project settings
+.idea/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Lock file
+package-lock.json

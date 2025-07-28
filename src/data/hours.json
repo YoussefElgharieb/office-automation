@@ -1,0 +1,33 @@
+{
+  "sunday": {
+    "isOpen": false
+  },
+  "monday": {
+    "isOpen": true,
+    "opening": 6,
+    "closing": 23
+  },
+  "tuesday": {
+    "isOpen": true,
+    "opening": 6,
+    "closing": 23
+  },
+  "wednesday": {
+    "isOpen": true,
+    "opening": 6,
+    "closing": 23
+  },
+  "thursday": {
+    "isOpen": true,
+    "opening": 6,
+    "closing": 23
+  },
+  "friday": {
+    "isOpen": true,
+    "opening": 6,
+    "closing": 19
+  },
+  "saturday": {
+    "isOpen": false
+  }
+}

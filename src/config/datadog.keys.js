@@ -1,0 +1,1 @@
+export const DATADOG_API_KEY = process.env.DATADOG_API_KEY;
