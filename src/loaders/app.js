@@ -25,8 +25,8 @@ app.listen(config.PORT, () => {
 });
 
 
-const isLocal = process.env.NODE_ENV === local;
+const isLocal = config.ENV === local;
 
 if (isLocal) {
-    open("http://localhost:" + config.PORT + "/api");
+    await open("http://localhost:" + config.PORT + "/api/docs");
 }
